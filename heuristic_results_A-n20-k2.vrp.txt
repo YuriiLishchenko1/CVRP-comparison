@@ -1,0 +1,5 @@
+Total Distance: 462.02705872669014
+Execution Time: 0.0 seconds
+Number of Vehicles: 2
+Route 1: [1, 10, 5, 9, 2, 3, 11, 8, 4, 6, 19, 7, 1]
+Route 2: [1, 20, 12, 18, 17, 13, 14, 16, 15, 1]

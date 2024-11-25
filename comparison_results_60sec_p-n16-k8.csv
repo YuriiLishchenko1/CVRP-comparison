@@ -1,0 +1,3 @@
+Algorithm,Total Distance,Execution Time,Number of Vehicles
+Exact,461.3189260514132,59.8027822971344,8
+Heuristic,499.44080789111035,0.0,8
